@@ -1,0 +1,11 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+pytesseract>=0.3.10
+streamlit>=1.28.0
+mss>=9.0.0
+matplotlib>=3.7.0
+plotly>=5.15.0
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow>=10.0.0
