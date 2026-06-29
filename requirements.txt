@@ -1,0 +1,10 @@
+# Pinned dependencies -- review periodically for security updates
+numpy==1.26.4
+opencv-python==4.9.0.80
+pandas==2.2.2
+Pillow==10.3.0
+plotly==5.22.0
+pytesseract==0.3.13
+python-mss==9.0.2
+streamlit==1.35.0
+matplotlib==3.9.0
